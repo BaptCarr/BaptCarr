@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BaptCarr
 - 👀 I’m interested in cloud computing, IA, Big Data and martial arts.
-- 🌱 I’m currently a third-year student at the ENSEA at Cergy, France, doing an exchange at the UPM, Spain. My master is the Master : Data Science.
-- 💞️ I’m looking for a six-months internship starting from April 2024.
+- 🌱 I’m currently a graduate engineer from ENSEA in Cergy, France, after an exchange at the UPM, Spain. I 'm specialized in electronics, computer science and AI.
 - 📫 How to reach me by mail : baptiste.carrolaggi@ensea.fr
 
 <!---
